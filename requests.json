@@ -1,0 +1,12 @@
+{'results': [{'age': 12,
+              'country': 'Netherlands',
+              'first_name': 'Jorie',
+              'gender': 'female',
+              'last_name': 'Aaldering'},
+             {'age': 19,
+              'country': 'New Zealand',
+              'first_name': 'Poppy',
+              'gender': 'female',
+              'last_name': 'Turner'}
+            ]
+}
