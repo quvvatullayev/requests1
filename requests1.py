@@ -34,6 +34,6 @@ def print_def(n = 10):
     dict1 = {'results':results}
     return dict1
 
-requests1 = print_def()
+requests1 = print_def(100)
 with open('requests.json', 'w') as f:
     json.dump(requests1, f, indent=2)
